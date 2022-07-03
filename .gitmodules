@@ -1,0 +1,3 @@
+[submodule "Plugins/Cubism"]
+	path = Plugins/Cubism
+	url = git@github.com:infinity-blackhole/unreal-cubism.git
